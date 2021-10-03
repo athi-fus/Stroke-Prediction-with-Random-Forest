@@ -1,0 +1,533 @@
+BALANCED
+dfB4:
+
+Tuning the Random Forest model
+Classification accuracy on test set with max features = 1 and max_depth = None: 0.943
+	f1 score: 0.4853000402738623
+	Precision: 0.4725490196078431
+	Recall: 0.49875827814569534
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 2: 0.693
+	f1 score: 0.5126692607003891
+	Precision: 0.5533567354102676
+	Recall: 0.730085146641438
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 3: 0.727
+	f1 score: 0.5285394004289445
+	Precision: 0.5548395901632127
+	Recall: 0.7209673604541154
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 4: 0.742
+	f1 score: 0.5369483873234489
+	Precision: 0.5570227107116832
+	Recall: 0.7221026490066225
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 5: 0.770
+	f1 score: 0.5495079419889503
+	Precision: 0.5586892459761609
+	Recall: 0.7100875118259224
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 6: 0.806
+	f1 score: 0.5570438282647585
+	Precision: 0.5554630350194553
+	Recall: 0.6685666982024598
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 7: 0.833
+	f1 score: 0.5708448405724328
+	Precision: 0.5612493311931515
+	Recall: 0.6624526963103121
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = None: 0.944
+	f1 score: 0.48571428571428577
+	Precision: 0.4725920125293657
+	Recall: 0.4995860927152318
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 2: 0.701
+	f1 score: 0.5177549044787324
+	Precision: 0.5549617049617049
+	Recall: 0.7342242194891202
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 3: 0.710
+	f1 score: 0.5218855218855218
+	Precision: 0.5553516672919658
+	Recall: 0.7320482497634815
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 4: 0.719
+	f1 score: 0.526548951095857
+	Precision: 0.5559882692888256
+	Recall: 0.7302861873226112
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 5: 0.779
+	f1 score: 0.5597303900385036
+	Precision: 0.5647037709202039
+	Recall: 0.7280983916745506
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 6: 0.807
+	f1 score: 0.5600075268142759
+	Precision: 0.5576389670141246
+	Recall: 0.675709555345317
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 7: 0.840
+	f1 score: 0.5632672205842937
+	Precision: 0.5543827399380805
+	Recall: 0.6329470198675498
+
+
+Classification accuracy on test set with max features = log2 and max_depth = None: 0.944
+	f1 score: 0.48571428571428577
+	Precision: 0.4725920125293657
+	Recall: 0.4995860927152318
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 2: 0.701
+	f1 score: 0.5177549044787324
+	Precision: 0.5549617049617049
+	Recall: 0.7342242194891202
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 3: 0.710
+	f1 score: 0.5218855218855218
+	Precision: 0.5553516672919658
+	Recall: 0.7320482497634815
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 4: 0.719
+	f1 score: 0.526548951095857
+	Precision: 0.5559882692888256
+	Recall: 0.7302861873226112
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 5: 0.779
+	f1 score: 0.5597303900385036
+	Precision: 0.5647037709202039
+	Recall: 0.7280983916745506
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 6: 0.807
+	f1 score: 0.5600075268142759
+	Precision: 0.5576389670141246
+	Recall: 0.675709555345317
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 7: 0.840
+	f1 score: 0.5632672205842937
+	Precision: 0.5543827399380805
+	Recall: 0.6329470198675498
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+dfB1
+Tuning the Random Forest model
+Classification accuracy on test set with max features = 1 and max_depth = None: 0.935
+	f1 score: 0.483218762636474
+	Precision: 0.47270569620253167
+	Recall: 0.49421009098428453
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 2: 0.667
+	f1 score: 0.4929799400249586
+	Precision: 0.5459952155523753
+	Recall: 0.7076635379580681
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 3: 0.662
+	f1 score: 0.49008423230382736
+	Precision: 0.5451936304084365
+	Recall: 0.7051821483799043
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 4: 0.692
+	f1 score: 0.5086936667954617
+	Precision: 0.5505942820430453
+	Recall: 0.7208976157082749
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 5: 0.732
+	f1 score: 0.5231441846095605
+	Precision: 0.5486840839685478
+	Recall: 0.6941597439493652
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 6: 0.757
+	f1 score: 0.5400616787497613
+	Precision: 0.555086094908174
+	Recall: 0.7073938216995721
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 7: 0.801
+	f1 score: 0.5487413602317655
+	Precision: 0.5501205051576208
+	Recall: 0.6558060919912252
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = None: 0.939
+	f1 score: 0.5086262988741448
+	Precision: 0.5504408634843417
+	Recall: 0.5099435393965548
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 2: 0.672
+	f1 score: 0.5006150428571562
+	Precision: 0.5512251514829383
+	Recall: 0.7310569281116266
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 3: 0.685
+	f1 score: 0.5090852800880625
+	Precision: 0.5536935159027317
+	Recall: 0.738087531916424
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 4: 0.696
+	f1 score: 0.514696210460382
+	Precision: 0.554418689130022
+	Recall: 0.7370446290502392
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 5: 0.709
+	f1 score: 0.5166807638504831
+	Precision: 0.5511775965969514
+	Recall: 0.7163304203977416
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 6: 0.751
+	f1 score: 0.5362717712783438
+	Precision: 0.5535921287002743
+	Recall: 0.7044988671917143
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 7: 0.798
+	f1 score: 0.5579633204633204
+	Precision: 0.558196912612943
+	Recall: 0.6883158916819505
+
+
+Classification accuracy on test set with max features = log2 and max_depth = None: 0.939
+	f1 score: 0.5086262988741448
+	Precision: 0.5504408634843417
+	Recall: 0.5099435393965548
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 2: 0.672
+	f1 score: 0.5006150428571562
+	Precision: 0.5512251514829383
+	Recall: 0.7310569281116266
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 3: 0.685
+	f1 score: 0.5090852800880625
+	Precision: 0.5536935159027317
+	Recall: 0.738087531916424
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 4: 0.696
+	f1 score: 0.514696210460382
+	Precision: 0.554418689130022
+	Recall: 0.7370446290502392
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 5: 0.709
+	f1 score: 0.5166807638504831
+	Precision: 0.5511775965969514
+	Recall: 0.7163304203977416
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 6: 0.751
+	f1 score: 0.5362717712783438
+	Precision: 0.5535921287002743
+	Recall: 0.7044988671917143
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 7: 0.798
+	f1 score: 0.5579633204633204
+	Precision: 0.558196912612943
+	Recall: 0.6883158916819505
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+dfB2
+Tuning the Random Forest model
+Classification accuracy on test set with max features = 1 and max_depth = None: 0.943
+	f1 score: 0.4853000402738623
+	Precision: 0.4729199372056515
+	Recall: 0.49834574028122414
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 2: 0.689
+	f1 score: 0.5026774293149839
+	Precision: 0.545774647887324
+	Recall: 0.6991584852734923
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 3: 0.692
+	f1 score: 0.5041477595008508
+	Precision: 0.5462237153166605
+	Recall: 0.7003991800625742
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 4: 0.706
+	f1 score: 0.5130777368401853
+	Precision: 0.5490390734376989
+	Recall: 0.7078433487970655
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 5: 0.754
+	f1 score: 0.5341460733317518
+	Precision: 0.5510169642629715
+	Recall: 0.6920739382169957
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 6: 0.786
+	f1 score: 0.5555733889735976
+	Precision: 0.5592803030303031
+	Recall: 0.7026108533822419
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 7: 0.804
+	f1 score: 0.548626808318264
+	Precision: 0.5493428415476503
+	Recall: 0.6506275398281008
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = None: 0.944
+	f1 score: 0.4855072463768116
+	Precision: 0.47294117647058825
+	Recall: 0.4987593052109181
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 2: 0.670
+	f1 score: 0.49913444678890906
+	Precision: 0.5508062913249149
+	Recall: 0.7298162333225446
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 3: 0.660
+	f1 score: 0.4941137823123185
+	Precision: 0.5504524058577406
+	Recall: 0.7312727011184235
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 4: 0.689
+	f1 score: 0.5110997477854331
+	Precision: 0.5542991032278909
+	Recall: 0.7397417916351998
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 5: 0.725
+	f1 score: 0.5286050206013153
+	Precision: 0.5561553787757595
+	Recall: 0.7314345308735211
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 6: 0.757
+	f1 score: 0.5329652193594628
+	Precision: 0.5488078063961875
+	Recall: 0.680476139101665
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 7: 0.801
+	f1 score: 0.5487413602317655
+	Precision: 0.5501205051576208
+	Recall: 0.6558060919912252
+
+
+Classification accuracy on test set with max features = log2 and max_depth = None: 0.944
+	f1 score: 0.4855072463768116
+	Precision: 0.47294117647058825
+	Recall: 0.4987593052109181
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 2: 0.670
+	f1 score: 0.49913444678890906
+	Precision: 0.5508062913249149
+	Recall: 0.7298162333225446
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 3: 0.660
+	f1 score: 0.4941137823123185
+	Precision: 0.5504524058577406
+	Recall: 0.7312727011184235
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 4: 0.689
+	f1 score: 0.5110997477854331
+	Precision: 0.5542991032278909
+	Recall: 0.7397417916351998
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 5: 0.725
+	f1 score: 0.5286050206013153
+	Precision: 0.5561553787757595
+	Recall: 0.7314345308735211
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 6: 0.757
+	f1 score: 0.5329652193594628
+	Precision: 0.5488078063961875
+	Recall: 0.680476139101665
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 7: 0.801
+	f1 score: 0.5487413602317655
+	Precision: 0.5501205051576208
+	Recall: 0.6558060919912252
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dfB3
+Tuning the Random Forest model
+Classification accuracy on test set with max features = 1 and max_depth = None: 0.944
+	f1 score: 0.48571428571428577
+	Precision: 0.4725920125293657
+	Recall: 0.4995860927152318
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 2: 0.679
+	f1 score: 0.5036582916857696
+	Precision: 0.5506293029259897
+	Recall: 0.7226348155156103
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 3: 0.727
+	f1 score: 0.5301841776785291
+	Precision: 0.5563382754413224
+	Recall: 0.7276963103122043
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 4: 0.745
+	f1 score: 0.5391120039647421
+	Precision: 0.5578454031843862
+	Recall: 0.7237582781456953
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 5: 0.765
+	f1 score: 0.5480308574446414
+	Precision: 0.5588762701733413
+	Recall: 0.7143330179754022
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 6: 0.786
+	f1 score: 0.5442747376311845
+	Precision: 0.550046762589928
+	Recall: 0.6645340586565752
+
+
+Classification accuracy on test set with max features = 1 and max_depth = 7: 0.826
+	f1 score: 0.5602992957746479
+	Precision: 0.5541028388728831
+	Recall: 0.6456835383159887
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = None: 0.944
+	f1 score: 0.48571428571428577
+	Precision: 0.4725920125293657
+	Recall: 0.4995860927152318
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 2: 0.704
+	f1 score: 0.5198067632850242
+	Precision: 0.5556231036944494
+	Recall: 0.735879848628193
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 3: 0.700
+	f1 score: 0.5167328417470222
+	Precision: 0.5546352482615051
+	Recall: 0.7333964049195838
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 4: 0.716
+	f1 score: 0.5244653600023781
+	Precision: 0.555275519860932
+	Recall: 0.7286305581835384
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 5: 0.751
+	f1 score: 0.5434893961179008
+	Precision: 0.5595431541343124
+	Recall: 0.7270695364238411
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 6: 0.776
+	f1 score: 0.5480972280606315
+	Precision: 0.5556850715746422
+	Recall: 0.6932119205298013
+
+
+Classification accuracy on test set with max features = sqrt and max_depth = 7: 0.836
+	f1 score: 0.573512585812357
+	Precision: 0.5628396246920736
+	Recall: 0.664108325449385
+
+
+Classification accuracy on test set with max features = log2 and max_depth = None: 0.944
+	f1 score: 0.48571428571428577
+	Precision: 0.4725920125293657
+	Recall: 0.4995860927152318
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 2: 0.704
+	f1 score: 0.5198067632850242
+	Precision: 0.5556231036944494
+	Recall: 0.735879848628193
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 3: 0.700
+	f1 score: 0.5167328417470222
+	Precision: 0.5546352482615051
+	Recall: 0.7333964049195838
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 4: 0.716
+	f1 score: 0.5244653600023781
+	Precision: 0.555275519860932
+	Recall: 0.7286305581835384
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 5: 0.751
+	f1 score: 0.5434893961179008
+	Precision: 0.5595431541343124
+	Recall: 0.7270695364238411
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 6: 0.776
+	f1 score: 0.5480972280606315
+	Precision: 0.5556850715746422
+	Recall: 0.6932119205298013
+
+
+Classification accuracy on test set with max features = log2 and max_depth = 7: 0.836
+	f1 score: 0.573512585812357
+	Precision: 0.5628396246920736
+	Recall: 0.664108325449385
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
